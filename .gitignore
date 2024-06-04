@@ -16,5 +16,22 @@
 !**/*.ipynb
 !**/*.zip
 
+# Não ignore arquivos de imagens
+!**/*.jpg
+!**/*.jpeg
+!**/*.png
+!**/*.gif
+!**/*.bmp
+!**/*.svg
+!**/*.tiff
+!**/*.ico
+
+# Não ignore arquivos de documentos
+!**/*.doc
+!**/*.docx
+!**/*.ppt
+!**/*.pptx
+!**/*.pdf
+
 # Não ignore o próprio arquivo .gitignore
 !.gitignore
