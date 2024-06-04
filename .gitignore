@@ -1,0 +1,20 @@
+# Ignore tudo
+*
+
+# Não ignore diretórios
+!*/
+
+# Não ignore os arquivos especificados
+!**/*.py
+!**/*.conf
+!**/*.cfg
+!**/*.ini
+!**/*.json
+!**/*.yml
+!**/*.yaml
+!**/*.md
+!**/*.ipynb
+!**/*.zip
+
+# Não ignore o próprio arquivo .gitignore
+!.gitignore
