@@ -1,5 +1,0 @@
-Score Acurácia (public): 0.90932
-
-Link GitHub para o Notebook: https://github.com/geeklicantropo/MESTRADO_PUBLICO/blob/main/DATA_MINING/TAREFAS/Tarefa1/data/obesity_classifier.ipynb
-
-Obs.: A imagem contendo o score da submissão no Kaggle está salvo em: https://github.com/geeklicantropo/MESTRADO_PUBLICO/blob/main/DATA_MINING/TAREFAS/Tarefa1/data/Submissao_Kaggle.png
